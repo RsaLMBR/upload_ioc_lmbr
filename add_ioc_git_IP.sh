@@ -9,7 +9,7 @@ set -euo pipefail
 
 # 🔧 CONFIGURAÇÕES FIXAS
 GITHUB_TOKEN="ghp_SEU_TOKEN_AQUI"          # <- coloque seu token GitHub (com escopo "repo")
-REPO_OWNER="seu_usuario_ou_org"            # <- exemplo: rannyereandrade
+REPO_OWNER="seu_usuario_ou_org"            # <- exemplo:
 REPO_NAME="threat-feed"                    # <- nome do repositório
 TARGET_FILE="feed/threat-ips.txt"          # <- caminho do arquivo dentro do repo
 BRANCH="main"                              # <- branch que será atualizado
