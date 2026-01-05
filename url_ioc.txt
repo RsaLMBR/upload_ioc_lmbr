@@ -974,7 +974,7 @@ forzatelecom.com.br
 camaraibiquera.ba.gov.br
 33.172.153.160.host.secureserver.net
 131.40.167.72.host.secureserver.net
- secureserver.net
+secureserver.net
 t.rdsv1.net
 aicmas.com
 alldataservice.com
@@ -1046,7 +1046,7 @@ anydeesk.ink
 g100cf.ddns.net
 comprovantes.eu
 oultimojogo.com
-https://zapgrande.com/
+zapgrande.com
 mazdafinancialsevrices.com
 clhttradinglimited.com
 ricardasphotography.com
@@ -1083,11 +1083,10 @@ whatsapp-labs.com
 wap-whatsap.com
 w9d-whatsapp.net
 tracking-postal.com
-zapgrande.com
+
 semrabo.com
 animaliaoqisso.com
 rosaebrain.com
 oultimojogo.com
 sorvetenopote.com
-https://firebasestorage.googleapis.com/v0/b/zimbra-2f94f.appspot.com/o/natheindex.html?alt=media&token=bc2a93c1-b7bf-4ae0-b3b9-a273c8ec597f
 tonypaulforyou.shop
