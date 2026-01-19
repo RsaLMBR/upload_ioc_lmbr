@@ -63,9 +63,9 @@ cdn-7a3d.vultr-dns.com
 web9a78bc52.trhammer.com
 access.trhammer.com
 ms101.cloudshappen.com
-anotherarmy.dns.army:8081
-varders.kozow.com:8081
-aborters.duckdns.org:8081
+anotherarmy.dns.army
+varders.kozow.com
+aborters.duckdns.org
 cri07nnrg958pkh6qhk0977u8c83jog6t.oast.fun
 cri07nnrg958pkh6qhk0yrgy1e76p1od6.oast.fun
 file.io
