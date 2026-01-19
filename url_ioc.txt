@@ -249,13 +249,13 @@ odvrlneiow77fspjz4lrj425jo7fmd5cv4q3iasjcqwe35ybei7wabyd.onion
 purcdflu3cqzjfc3rwzr2jxz2e6yiaiks4ej2sn4t4hux2lnksfe3dqd.onion
 rabwadnfs35sjfmrvka7vras7hj3s22aixx72da5x3zbsnk3cxxo77qd.onion
 qryejmh3imdjrvns2rbncl3gfw5a2etzwktm2uplavp7jn4stw3lbwqd.onion
-http://rucaoeomop3yeepq5iyawcxjjt6x3tah5flbai2fewotjwomf6xqvxqd.onion
-http://s26a7zwwxapsmm3hi3awsz7cd5mjwxhl3gd6bplhiwvekm4hys2u32qd.onion
-http://s626jyykfd2vpeel7rswnlmwsjcumjgwsw2hdo3shphtih64ayu7n6yd.onion
+rucaoeomop3yeepq5iyawcxjjt6x3tah5flbai2fewotjwomf6xqvxqd.onion
+s26a7zwwxapsmm3hi3awsz7cd5mjwxhl3gd6bplhiwvekm4hys2u32qd.onion
+s626jyykfd2vpeel7rswnlmwsjcumjgwsw2hdo3shphtih64ayu7n6yd.onion
 sj3jle6rfggaumbex4fqhb63vj7so5sy6e7wlgrlmayk3pmhtmgtwfid.onion
 sj5ud3jiqkp47zza57xvrpno5tw6nrvxbxzvgn4k2fmyzzprhf6jxxid.onion
 srssvp2lk3vnwttncfxogitwrdo5y7nljcj6razz3ghjqdpxp4x2m2yd.onion
-http://tnpiydtimuugdaixsyuew4nofzggjdsyyo3ctw2uzi4drll4axm3diyd.onion
+tnpiydtimuugdaixsyuew4nofzggjdsyyo3ctw2uzi4drll4axm3diyd.onion
 twlittqpz6hslkwrwaczn6b55jb4iz46erykvrnzhlyfssnk5uwwlmyd.onion
 uup6i2g2uhsmsts6t4h5s652hficknfnpzs662x2q3iym5ddninyemad.onion
 vbtzr7t7y7pxduueznc4mntv2zgrt66m4zvore5jahma2s7do7kguead.onion
@@ -274,7 +274,7 @@ vasehub.xyz
 www.kevin-torkelson.info
 kevin-torkelson.info
 ws.onehub.com
-filedn.com/lY24cv0IfefboNEIN0I9gqR
+filedn.com
 support.cloudstore.business
 support.docsend.site
 easybackupcloud.com
@@ -424,7 +424,7 @@ tiguanin.com
 peronikilinfer.com
 greshunka.com
 americajobmail.site
-are.cloudns.org:12300
+are.cloudns.org
 e-connection.ru
 Strepsils.top
 disk-yanbex.ru
@@ -731,7 +731,7 @@ cbmelipilla.cl
 6014.anonymousrat5.com
 6014.anonymousrat7.com
 6014.anonymousrat6.com
-zestyahhdog.com/Arc12645413.dmg
+zestyahhdog.com
 arcthost.org
 intimaciones.afip.gob.ar.kdental.cl
 techpowerup.net
@@ -791,7 +791,7 @@ carleasingguru.com
 jeepcarlease.com
 thefinetreats.com
 buy-new-car.com
-qcpanel.hackcrack.io:9561
+qcpanel.hackcrack.io
 chrysalisc.com
 thefrostery.co.uk
 job4writers.com
@@ -882,7 +882,6 @@ backyard-eie.pages.dev
 analcramp.pages.dev
 agusjahatbanget.pages.dev
 ekomendasi-alternatif-amphtml-terbaru-hari-ini-satu.pages.dev
-agusjahatbanget.pages.dev/GOTO77
 dprdmajalengka.pages.dev
 probolinggokab.pages.dev
 kominfopaserkab.pages.dev
