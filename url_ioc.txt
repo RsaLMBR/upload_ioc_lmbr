@@ -1023,3 +1023,5 @@ oast.fun
 costactspreadinf.duckdns.org
 dev-snitch.online
 gui-snitch.online
+pay.risepay.com.br
+risepay.com.br
