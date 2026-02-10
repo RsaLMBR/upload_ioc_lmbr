@@ -1025,3 +1025,5 @@ dev-snitch.online
 gui-snitch.online
 pay.risepay.com.br
 risepay.com.br
+gatepass-corp.com
+
