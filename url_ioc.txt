@@ -1029,3 +1029,6 @@ gatepass-corp.com
 kak.is
 info.kak.is
 kapa.is
+chataigpt.pro
+deepseek.ai
+vc2.b1ack.cat
