@@ -1032,3 +1032,5 @@ kapa.is
 chataigpt.pro
 deepseek.ai
 vc2.b1ack.cat
+digitallybird.com
+metrics.send.hotmart.com
