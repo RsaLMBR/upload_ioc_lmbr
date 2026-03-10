@@ -1034,3 +1034,4 @@ deepseek.ai
 vc2.b1ack.cat
 digitallybird.com
 metrics.send.hotmart.com
+higgsfield.ai
