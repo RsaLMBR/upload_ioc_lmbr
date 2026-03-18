@@ -1035,3 +1035,4 @@ vc2.b1ack.cat
 digitallybird.com
 metrics.send.hotmart.com
 higgsfield.ai
+wdl1.pcfg.cache.wpscdn.com
