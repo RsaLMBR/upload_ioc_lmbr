@@ -1037,3 +1037,5 @@ metrics.send.hotmart.com
 higgsfield.ai
 wdl1.pcfg.cache.wpscdn.com
 onlyoffice.com
+freeoffice.com
+mobisystems.com
