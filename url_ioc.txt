@@ -1148,3 +1148,4 @@ support1.redirectme.net
 api-prod.propig.com.br
 pritunl.propig.com.br
 conciliador.propig.com.br
+xcai.pro
