@@ -1149,3 +1149,7 @@ api-prod.propig.com.br
 pritunl.propig.com.br
 conciliador.propig.com.br
 xcai.pro
+newbooker.com
+planetmaison.com
+moments-notice.com
+newbooker.com
